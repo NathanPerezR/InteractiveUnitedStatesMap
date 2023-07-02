@@ -1,0 +1,42 @@
+/* Full United States Map */
+.landingPage  {
+  height: 100vh;
+  margin: 0px;
+  padding: 0px;
+}
+
+.UnitedStatesWrapper {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+svg {
+  width: 99vw;
+  max-height: 99vh;
+}
+
+/*State map info dialog*/
+.stateFlagImg {
+  max-width: 75%;
+  border:1px solid #000000;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* about button */
+.aboutWrapper {
+  position: absolute;
+  right: 30px;
+  bottom: 20px;
+  margin: 0px;
+  padding:0px;
+}
+
+.aboutButtonIcon {
+  transform: scale(1.8);
+}

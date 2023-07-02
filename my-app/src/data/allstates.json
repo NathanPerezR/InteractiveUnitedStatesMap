@@ -1,0 +1,359 @@
+[
+  {
+    "id": "AL",
+    "val": "01",
+    "flagWikiUrl": "Flag_of_Alabama",
+    "hasData": true,
+    "fullStateName": "Alabama"
+  },
+  {
+    "id": "AK",
+    "val": "02",
+    "flagWikiUrl": "Flag_of_Alaska",
+    "hasData": true,
+    "fullStateName": "Alaska"
+  },
+  {
+    "id": "AZ",
+    "val": "04",
+    "flagWikiUrl": "Flag_of_Arizona",
+    "hasData": true,
+    "fullStateName": "Arizona"
+  },
+  {
+    "id": "AR",
+    "val": "05",
+    "flagWikiUrl": "Flag_of_Arkansas",
+    "hasData": true,
+    "fullStateName": "Arkansas"
+  },
+  {
+    "id": "CA",
+    "val": "06",
+    "flagWikiUrl": "Flag_of_California",
+    "hasData": true,
+    "fullStateName": "California"
+  },
+  {
+    "id": "CO",
+    "val": "08",
+    "flagWikiURl": "Flag_of_Colorado",
+    "hasData": false,
+    "fullStateName": "Colorado"
+  },
+  {
+    "id": "CT",
+    "val": "09",
+    "flagWikiUrl": "Flag_of_Connecticut",
+    "hasData": true,
+    "fullStateName": "Connecticut"
+  },
+  {
+    "id": "DE",
+    "val": "10",
+    "flagWikiURl": "Flag_of_Delaware",
+    "hasData": false,
+    "fullStateName": "Delaware"
+  },
+  {
+    "id": "DC",
+    "val": "11",
+    "flagWikiUrl": "Flag_of_Washington,_D.C.",
+    "hasData": true,
+    "fullStateName": "District of Columbia"
+  },
+  {
+    "id": "FL",
+    "val": "12",
+    "flagWikiUrl": "Flag_of_Florida",
+    "hasData": true,
+    "fullStateName": "Florida"
+  },
+  {
+    "id": "GA",
+    "val": "13",
+    "flagWikiUrl": "Flag_of_Georgia_(U.S._state)",
+    "hasData": true,
+    "fullStateName": "Georgia"
+  },
+  {
+    "id": "HI",
+    "val": "15",
+    "flagWikiUrl": "Flag_of_Hawaii",
+    "hasData": true,
+    "fullStateName": "Hawaii"
+  },
+  {
+    "id": "ID",
+    "val": "16",
+    "flagWikiUrl": "Flag_and_seal_of_Idaho",
+    "hasData": true,
+    "fullStateName": "Idaho"
+  },
+  {
+    "id": "IL",
+    "val": "17",
+    "flagWikiUrl": "Flag_and_seal_of_Illinois",
+    "hasData": true,
+    "fullStateName": "Illinois"
+  },
+  {
+    "id": "IN",
+    "val": "18",
+    "flagWikiUrl": "Flag_of_Indiana",
+    "hasData": true,
+    "fullStateName": "Indiana"
+  },
+  {
+    "id": "IA",
+    "val": "19",
+    "flagWikiUrl": "Flag_of_Iowa",
+    "hasData": true,
+    "fullStateName": "Iowa"
+  },
+  {
+    "id": "KS",
+    "val": "20",
+    "flagWikiUrl": "Flag_of_Kansas",
+    "hasData": true,
+    "fullStateName": "Kansas"
+  },
+  {
+    "id": "KY",
+    "val": "21",
+    "flagWikiUrl": "Flag_of_Kentucky",
+    "hasData": true,
+    "fullStateName": "Kentucky"
+  },
+  {
+    "id": "LA",
+    "val": "22",
+    "flagWikiUrl": "Flag_of_Louisiana",
+    "hasData": true,
+    "fullStateName": "Louisiana"
+  },
+  {
+    "id": "ME",
+    "val": "23",
+    "flagWikiUrl": "Flag_of_Maine",
+    "hasData": true,
+    "fullStateName": "Maine"
+  },
+  {
+    "id": "MD",
+    "val": "24",
+    "flagWikiUrl": "Flag_of_Maryland",
+    "hasData": true,
+    "fullStateName": "Maryland"
+  },
+  {
+    "id": "MA",
+    "val": "25",
+    "flagWikiUrl": "Flag_of_Massachusetts",
+    "hasData": true,
+    "fullStateName": "Massachusetts"
+  },
+  {
+    "id": "MI",
+    "val": "26",
+    "flagWikiUrl": "Flag_of_Michigan",
+    "hasData": true,
+    "fullStateName": "Michigan"
+  },
+  {
+    "id": "MN",
+    "val": "27",
+    "flagWikiUrl": "Flag_of_Minnesota",
+    "hasData": true,
+    "fullStateName": "Minnesota"
+  },
+  {
+    "id": "MS",
+    "val": "28",
+    "flagWikiUrl": "Flag_of_Mississippi",
+    "hasData": true,
+    "fullStateName": "Mississippi"
+  },
+  {
+    "id": "MO",
+    "val": "29",
+    "flagWikiUrl": "Flag_of_Missouri",
+    "hasData": true,
+    "fullStateName": "Missouri"
+  },
+  {
+    "id": "MT",
+    "val": "30",
+    "flagWikiUrl": "Flag_of_Montana",
+    "hasData": true,
+    "fullStateName": "Montana"
+  },
+  {
+    "id": "NE",
+    "val": "31",
+    "flagWikiUrl": "Flag_of_Nebraska",
+    "hasData": true,
+    "fullStateName": "Nebraska"
+  },
+  {
+    "id": "NV",
+    "val": "32",
+    "flagWikiUrl": "Flag_of_Nevada",
+    "hasData": true,
+    "fullStateName": "Nevada"
+  },
+  {
+    "id": "NH",
+    "val": "33",
+    "flagWikiUrl": "Flag_and_seal_of_New_Hampshire",
+    "hasData": true,
+    "fullStateName": "New Hampshire"
+  },
+  {
+    "id": "NJ",
+    "val": "34",
+    "flagWikiUrl": "Coat_of_arms_and_flag_of_New_Jersey",
+    "hasData": true,
+    "fullStateName": "New Jersey"
+  },
+  {
+    "id": "NM",
+    "val": "35",
+    "flagWikiUrl": "Flag_of_New_Mexico",
+    "hasData": true,
+    "fullStateName": "New Mexico"
+  },
+  {
+    "id": "NY",
+    "val": "36",
+    "flagWikiUrl": "Coat_of_arms_of_New_York",
+    "hasData": true,
+    "fullStateName": "New York"
+  },
+  {
+    "id": "NC",
+    "val": "37",
+    "flagWikiUrl": "North_Carolina",
+    "hasData": true,
+    "fullStateName": "North Carolina"
+  },
+  {
+    "id": "ND",
+    "val": "38",
+    "flagWikiUrl": "Flag_of_North_Dakota",
+    "hasData": true,
+    "fullStateName": "North Dakota"
+  },
+  {
+    "id": "OH",
+    "val": "39",
+    "flagWikiUrl": "Flag_of_Ohio",
+    "hasData": true,
+    "fullStateName": "Ohio"
+  },
+  {
+    "id": "OK",
+    "val": "40",
+    "flagWikiUrl": "Flag_of_Oklahoma",
+    "hasData": true,
+    "fullStateName": "Oklahoma"
+  },
+  {
+    "id": "OR",
+    "val": "41",
+    "flagWikiUrl": "Flag_of_Oregon",
+    "hasData": true,
+    "fullStateName": "Oregon"
+  },
+  {
+    "id": "PA",
+    "val": "42",
+    "flagWikiUrl": "Flag_of_Pennsylvania",
+    "hasData": true,
+    "fullStateName": "Pennsylvania"
+  },
+  {
+    "id": "RI",
+    "val": "44",
+    "flagWikiUrl": "Flag_of_Rhode_Island",
+    "hasData": true,
+    "fullStateName": "Rhode Island"
+  },
+  {
+    "id": "SC",
+    "val": "45",
+    "flagWikiUrl": "Flag_of_South_Carolina",
+    "hasData": true,
+    "fullStateName": "South Carolina"
+  },
+  {
+    "id": "SD",
+    "val": "46",
+    "flagWikiUrl": "Flag_of_South_Dakota",
+    "hasData": true,
+    "fullStateName": "South Dakota"
+  },
+  {
+    "id": "TN",
+    "val": "47",
+    "flagWikiUrl": "Flag_of_Tennessee",
+    "hasData": true,
+    "fullStateName": "Tennessee"
+  },
+  {
+    "id": "TX",
+    "val": "48",
+    "flagWikiUrl": "Flag_of_Texas",
+    "hasData": true,
+    "fullStateName": "Texas"
+  },
+  {
+    "id": "UT",
+    "val": "49",
+    "flagWikiUrl": "Flag_of_Utah",
+    "hasData": true,
+    "fullStateName": "Utah"
+  },
+  {
+    "id": "VT",
+    "val": "50",
+    "flagWikiUrl": "Flag_of_Vermont",
+    "hasData": true,
+    "fullStateName": "Vermont"
+  },
+  {
+    "id": "VA",
+    "val": "51",
+    "flagWikiUrl": "Flag_and_seal_of_Virginia",
+    "hasData": true,
+    "fullStateName": "Virginia"
+  },
+  {
+    "id": "WA",
+    "val": "53",
+    "flagWikiUrl": "Flag_of_Washington",
+    "hasData": true,
+    "fullStateName": "Washington"
+  },
+  {
+    "id": "WV",
+    "val": "54",
+    "flagWikiURl": "Flag_of_West_Virginia",
+    "hasData": false,
+    "fullStateName": "West Virginia"
+  },
+  {
+    "id": "WI",
+    "val": "55",
+    "flagWikiUrl": "Flag_of_Wisconsin",
+    "hasData": true,
+    "fullStateName": "Wisconsin"
+  },
+  {
+    "id": "WY",
+    "val": "56",
+    "flagWikiUrl": "Flag_of_Wyoming",
+    "hasData": true,
+    "fullStateName": "Wyoming"
+  }
+]
