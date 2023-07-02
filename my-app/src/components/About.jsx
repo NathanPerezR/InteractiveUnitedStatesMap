@@ -32,7 +32,9 @@ function About() {
             <a href="https://nathanperezr.github.io/" target="_blank" rel="noreferrer">Nathan Perez</a>
             . Currently, this website is just state flag info from the Wikipedia API, but there are
             plans to add a state guessing game, as well as some other features.  To watch the
-            development of this app take a look at the github for more info.
+            development of this app take a look at the&nbsp;
+            <a href="https://github.com/NathanPerezR/InteractiveUnitedStatesMap">github</a>
+            &nbsp;for more info.
           </p>
         </DialogContent>
         <DialogActions>
