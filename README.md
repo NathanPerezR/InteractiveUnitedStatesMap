@@ -24,7 +24,7 @@
   <p align="center">
     Click on any state for more info!
     <br />
-    <a href="https://github.com/NathanPerezR/InteractiveUnitedStatesMap">View Demo</a>
+    <a href="https://main--elaborate-khapse-3bc884.netlify.app/">View Demo</a>
     ·
     <a href="https://github.com/NathanPerezR/InteractiveUnitedStatesMap/issues">Report Bug</a>
     ·
@@ -35,7 +35,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Picture Of the website][product-screenshot]]
+![Picture Of the website][product-screenshot]
 
 Web app with an interactive map of the United States.  Users can click on the map to get info about that states flag.  Data is retrieved from the Wikipedia API.
 
