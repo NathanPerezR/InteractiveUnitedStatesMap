@@ -69,6 +69,6 @@ React, Javascript , Wikipedia REST API
 
 - [x] Core Map
 - [x] State Flag Info
-- [ ] Adding State Guessing Game
+- [ ] Add timed state memory test
 
 [product-screenshot]: /my-app/public/DemoPicture.png
